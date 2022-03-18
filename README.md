@@ -1,3 +1,17 @@
-# Projeto-Museu-Nacional
-Projeto de site do Museu Nacional feito no curso de Desenvolvimento Web de Jamilton Damasceno e Jorge Sant Ana.
-O projeto é feito usando apenas HTML5 e CSS3, sem aplicar funcionalides lógicas, focando apenas na parte visual e básica da página.
+
+<h1 align="center">
+    <p>It's a lovely experience walking around a museum by yourself.</p>
+</h1>
+
+<h1>
+    <img src="image/animation.gif">
+</h1>
+
+## About
+
+Site project of the National Museum made in the course of Web Development of Jamilton Damasceno and Jorge Sant Ana.The project is done using only HTML5 and CSS3, without applying logical functionalides, focusing only on the visual and basic part of the page.
+
+## 🔨 Tools
+
+- HTML5
+- CSS3
